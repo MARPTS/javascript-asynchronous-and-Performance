@@ -1,1 +1,1 @@
-# javascript-asynchronous-and-Performance
+# you should know about asynchronous and Performance
